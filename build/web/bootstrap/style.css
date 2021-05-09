@@ -1,0 +1,206 @@
+/* CSS Document */
+.logo a img
+{
+    width:100%;
+    
+}
+.menu
+{
+    color:#FFFFFF !important;
+}
+.menu a:hover
+{
+color:#FF66FF;
+}
+.more_list ul
+{
+    background-color:#ff5063 !important;
+list-style: none;    
+}
+.menu li a
+{
+color:#FFFFFF; 
+}
+.home_menu a:hover
+{
+color:#FF66FF !important;
+text-decoration:underline !important; 
+}
+.hm
+{
+color:#FFFFFF !important;
+}
+
+ul.multi-column-dropdown h6 {
+    font-size: 1.5em; 
+    color:#3c43a4;
+    margin: 0 0 1em;
+    padding-bottom: 1em;
+    border-bottom:#ff5063 solid 1px;
+    text-transform: capitalize;
+}
+.multi-column-dropdown li {
+    list-style-type: none;
+    margin: 7px 0;
+}
+.multi-column-dropdown li a {
+    display:block;
+    clear: both;
+    line-height: 1.428571429;
+    white-space: normal;
+	font-weight:500 !important;
+	text-decoration:none;
+}
+.multi-column-dropdown li a:hover{
+	color:#ff5063 !important;
+}
+.multi-column-dropdown li a span {
+    margin-left: 1em;
+    padding: .1em .5em;
+    background:#ff5063;
+    color: #fff;
+}
+.multi-column-dropdown li a i {
+    font-size: 1.1em;
+    font-style: normal;
+    color: #fff;
+    text-transform: uppercase;
+    margin: 3em 0 0;
+    display: block;
+    padding: .4em .5em;
+    background: #3c43a4;
+    text-align: center;
+}
+.dropdown-menu.columns-3 {
+    min-width:900px;
+    padding: 30px 30px;
+	left: -130%;
+}
+.product_offer h3 i {
+                color:#ff5063;
+		text-align: right;
+	
+		padding-right: 2em;
+	}
+        .product_offer h3 {
+            color:#000;
+            padding-left:4em;
+		padding-right: 2em;
+	} 
+  
+    .hm    newsletter_right
+/*for footer*/
+.newsletter
+{
+ background:#671979;
+ padding:3em 0;   
+    
+}
+.newsletter_left h3
+{
+font-size:2em;
+	color:#fff;       
+}
+.newsletter_left p
+{
+ color: #bfbfbf;
+    line-height: 1.8em;
+    margin-top: .5em;
+    font-weight: 100;   
+}
+
+.newsletter_right input[type="email"]
+{
+	outline: none;
+    padding: 10px;
+    color:#0000CC;
+    font-size: 14px;
+    width: 70%;
+    background: #fff;
+    border:none;
+    float: left;
+}
+
+.newsletter_right input[type="submit"]
+{
+    outline: none;
+    padding: 9px 0;
+    width: 15%;
+    height:39px;
+    background: url(../images/img-sp.png) no-repeat 26px -65px #212121;
+    border: none;
+	
+}
+
+.newsletter_right input[type="submit"]:hover
+{
+   background-color: #b92c28;
+}
+.newsletter_right
+{
+  margin-top: 0.8em;  
+    
+}
+
+.follow
+{
+font-size:26px;
+}
+.fstyle ul
+{
+list-style:none;
+}
+.ffamily 
+{
+font-family:"Times New Roman", Times, serif;
+}
+
+.footer-copy1 {
+    position: relative;
+    padding: 2em 0 0;
+    border-bottom: 1px solid #000;
+}
+.footer-copy-pos {
+    position: absolute;
+    padding-right:0px;
+    right: 6%;
+    bottom: -78%;
+    width: 50px;
+    height: 50px;
+    border: 3px solid #ff5063;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -o-border-radius: 25px;
+    -ms-border-radius: 25px;
+    box-shadow: 0px 0px 5px 0px #ff5063;
+	-webkit-transition:.5s all;
+	-moz-transition:.5s all; 
+	transition:.5s all;
+	
+}
+.footer-copy-pos:hover {
+    box-shadow: 0px 0px 30px 5px #ff5063;
+}
+.footer-copy p{
+	margin:4em 0 0;
+	text-align:center;
+	color:#999;
+	line-height:1.8em;
+}
+.footer-copy p a{
+	color:#b92c28;
+	text-decoration:none;
+            font-family:"Times New Roman", Times, serif;
+}
+.footer-copy p a:hover{
+	color:#999;
+}
+
+
+
+/* admin css start*/
+
+
+
+/* admin css end*/
